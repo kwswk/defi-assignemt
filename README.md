@@ -30,6 +30,11 @@ Optimization:
     - t = log( 1 + gas / capital ) / log( 1 + r / n )
 - The function would return optimal hour if breakeven point in terms of day is less than 0
 
+Video Demo:
+- Introduction of workflow:               https://youtu.be/ttBfK-rVDlQ
+- Demostration of making transactions:    https://youtu.be/dvtjNyN665I
+
+
 Ideal log (Numbers would change if transactions were triggered):
 ```
 erickung@Erics-MBP defi-pancake-swap % node auto_farm_cake_bnb.js
