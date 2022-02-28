@@ -1,0 +1,28 @@
+{
+  "name": "defi-pancake-swap",
+  "version": "1.0.0",
+  "description": "To automate pancake swap yield farming",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwswk/defi-pancake-swap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwswk/defi-pancake-swap/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/kwswk/defi-pancake-swap#readme",
+  "dependencies": {
+    "@uniswap/sdk": "^3.0.3",
+    "bakerysdk": "^1.0.1",
+    "node-fetch": "^3.2.0",
+    "simple-pancakeswap-sdk": "^1.1.1",
+    "web3": "^1.7.0"
+  }
+}
